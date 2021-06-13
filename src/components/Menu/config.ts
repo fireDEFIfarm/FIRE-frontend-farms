@@ -40,7 +40,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Docs',
-        href: 'https://fireDEFIfarm.gitbook.io/fire-finance',
+        href: 'https://firefarm.gitbook.io/fire-defi/',
       },
       {
         label: 'Github',
